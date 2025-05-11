@@ -1,1 +1,1 @@
-This is my datascience project, open the streamlit app and it will explain everything
+This is the R code for my datascience project for Biostats. This was a group project.
